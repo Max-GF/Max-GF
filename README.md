@@ -1,9 +1,9 @@
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+<div align="center" style="display: flex; gap: 16px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Max-GF&show_icons=true&theme=radical" 
-       style="height: 230px; object-fit: contain;" 
+       style="height: 220px; flex: 1; max-width: 600px; object-fit: contain;" 
        alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-GF&layout=donut&theme=radical" 
-       style="height: 230px; object-fit: contain;" 
+       style="height: 220px; flex: 1; max-width: 300px; object-fit: contain;" 
        alt="Linguagens Mais Usadas" />
 </div>
 
