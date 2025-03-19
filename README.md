@@ -1,13 +1,11 @@
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Max-GF&show_icons=true&theme=radical" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-GF&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Max-GF&show_icons=true&theme=radical" 
+       style="height: 230px; object-fit: contain;" 
+       alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-GF&layout=donut&theme=radical" 
+       style="height: 230px; object-fit: contain;" 
+       alt="Linguagens Mais Usadas" />
+</div>
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;">
